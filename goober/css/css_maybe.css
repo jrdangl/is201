@@ -1,0 +1,62 @@
+
+body1 {
+    text-align: center;
+    font-family: monospace;
+}
+body {
+    color: gray;
+    font-weight: bolder;
+    font-style: bold;
+    font-size: x-large;
+    /*background-color: rgba(88, 83, 158, 0.313); "https://www.ambong-ambong.com/wp-content/uploads/2023/03/istockphoto-1172427455-612x612-1.jpeg"*/
+    
+    background-image: url("https://img.freepik.com/premium-photo/sunset-sky-clouds-orange-purple-horizon-seamless-pattern_964851-3014.jpg?w=740")
+    /* background-image: url('../images/nichola.jpg'); */
+
+}
+img{
+    border: 15px dotted fuchsia;
+    padding: 30px;
+    margin: 5px;
+    display: block; 
+    margin: auto;
+
+}
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration-color: red;
+    text-decoration-line: line-through;
+    
+    text-decoration-line: overline;
+}
+p {
+    text-decoration-line: underline;
+    font-family: 'Lucid Sans Unicode';
+    color: white;
+}
+h1 {
+    display: inline;
+    border: 10px solid orangered;
+    text-align: center
+}
+.riz {
+    font-family: 'Times New Roman';
+    color: rgb(79, 21, 141);
+    font-size: xx-large;
+    font-style: italic;
+    border: 3px rgb(175, 62, 181) dashed;
+    background-color: gold;
+}
+.riz:hover {
+    text-decoration: line-through;
+    font-size: 300%;
+    background-color: black;
+    border: solid rgb(32, 158, 199) 10px;
+    font-family: 'Georgia';
+}
+a{
+    font-size: 300%;
+    color: white;
+}
+
